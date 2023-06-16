@@ -51,7 +51,8 @@ GIF created with https://giphy.com/
 
 Describe any challenges encountered while building the app.
 
-At first, it was difficult to get used to XCode as I've never used it before. While I was trying to implement the code, I was confused as to where to paste it. Luckily, I was able to find a video that explained it. 
+- Difficulty with navigating Xcode (found resources on Youtube to help)
+- Missing file from original folder, but was able to get the repo's URL and implemented that
 
 ## License
 
