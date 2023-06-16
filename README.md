@@ -17,14 +17,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/UoZsuhpVrVQITFXcB6/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with https://giphy.com/
 
 ## App Brainstorming (Step 4)
     
@@ -34,7 +29,7 @@ GIF created with ...
         Upload Discord bots that can moderate servers or be silly
         
     YouTube -
-        Add videos into different playlists and share it with a simple link
+        Add videos to different playlists and share them with a simple link
         Like and dislike videos
         Subscribe to your favorite content creators to show support
     
@@ -52,7 +47,7 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
-At first, it was difficult getting used to XCode as I've never used it before. While I was trying to implement the code, I was confused as to where to paste it. Luckily, I was able to find a video that explained it. 
+At first, it was difficult to get used to XCode as I've never used it before. While I was trying to implement the code, I was confused as to where to paste it. Luckily, I was able to find a video that explained it. 
 
 ## License
 
