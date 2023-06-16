@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework -  IOS development 101 for CodePath, ColorApp
 
 Submitted by: Yumiko Chow
+ 
+ColorApp is an app that displays my name, the university I currently attend, and my aspirational job. This simple pre-work app for Codepath's IOS101 course is written in Swift.
 
-**Name of your app** is an app that... [TODO] 
-
-Time spent: 2 hours spent in total
+Time spent: 1 hours spent in total
 
 ## Required Features
 
@@ -27,14 +27,36 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+    
+    Discord - 
+        Ability to have statuses and descriptions on one's profile
+        Create large servers and form communities
+        Upload Discord bots that can moderate servers or be silly
+        
+    YouTube -
+        Add videos into different playlists and share it with a simple link
+        Like and dislike videos
+        Subscribe to your favorite content creators to show support
+    
+    Spotify -
+        Specialized music playlists made based on the viewers' favorite songs
+        Section of recommended songs on the bottom of playlists
+        Ability to listen with your friends
+        Ability to transition each song into one another smoothly (It works because the music fades together)
+        
+        (app idea)
+        ArtUnite is an app where users are able to share their artworks with people all over the world; whether that be stories, paintings, or music pieces, there is a multitude of ways to design and make the profile your own. Inspired by DeviantArt and GitHub, users can store their work privately or share it with others. Other features include duetting someone (in a song, collaborating on an art piece, etc.), using basic CSS and HTML to design your own user pages, linking your socials as you create your personalized art portfolio, and participating in art competitions hosted by our users and moderators!
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+At first, it was difficult getting used to XCode as I've never used it before. While I was trying to implement the code, I was confused as to where to paste it. Luckily, I was able to find a video that explained it. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Yumiko Chow]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -47,3 +69,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
