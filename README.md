@@ -40,7 +40,11 @@ GIF created with https://giphy.com/
         Ability to transition each song into one another smoothly (It works because the music fades together)
         
         (app idea)
-        ArtUnite is an app where users are able to share their artworks with people all over the world; whether that be stories, paintings, or music pieces, there is a multitude of ways to design and make the profile your own. Inspired by DeviantArt and GitHub, users can store their work privately or share it with others. Other features include duetting someone (in a song, collaborating on an art piece, etc.), using basic CSS and HTML to design your own user pages, linking your socials as you create your personalized art portfolio, and participating in art competitions hosted by our users and moderators!
+        ArtUnite is an app where users are able to share their artworks with people all over the world; whether that be stories, paintings, or music
+        pieces, there is a multitude of ways to design and make the profile your own. Inspired by DeviantArt and GitHub, users can store their work
+        privately or share it with others. Other features include duetting someone (in a song, collaborating on an art piece, etc.), using basic CSS  
+        and HTML to design your own user pages, linking your socials as you create your personalized art portfolio, and participating in art 
+        competitions hosted by our users and moderators!
 
 
 ## Notes
